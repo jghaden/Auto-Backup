@@ -1,4 +1,4 @@
-# Auto Backup
+# AutoBackup
 A program with a basic and easy to understand GUI to quickly and automatically make backups of a given source to a set target.
 
 ## How To Use
